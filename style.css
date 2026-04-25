@@ -17,11 +17,13 @@ body {
 h1, h2, h3 {
   font-family: 'Playfair Display', serif;
   margin-bottom: 15px;
+  margin-left: 10px;
   color: #111827; /* dark shade for headings */
 }
 
 p {
   margin-bottom: 15px;
+  margin-left: 10px;
 }
 
 /* ========================
